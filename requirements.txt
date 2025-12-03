@@ -1,0 +1,1 @@
+gimpformats>=2025
